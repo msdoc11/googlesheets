@@ -67,8 +67,8 @@ export const language = [
     }
 ]
 
-export const domain = `http://89.108.77.121:5000`
+export const domain = `https://tablesgoogle.herokuapp.com/`
 export const develop = `http://localhost:5000`
-export const build = false
+export const build = true
 
 export const topdeals = 800
